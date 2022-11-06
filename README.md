@@ -9,6 +9,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Spydr-SQL" height="30" width="40" src="https://i.imgur.com/UvYY8yF.png">
   <img align="center" alt="Spydr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Spydr-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spydr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
